@@ -1,6 +1,6 @@
 [![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm sundar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate CAPM developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundar&label=Profile%20views&color=0e75b6&style=flat" alt="sundar" /> </p>
 

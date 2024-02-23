@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundar&label=Profile%20views&color=0e75b6&style=flat" alt="sundar" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **SAP CAP**
 
-- 💬 Ask me about **Angular,Html,Css,Js**
+- 💬 Ask me about **CAP**
 
 - 📫 How to reach me **gm49302@gmail.com**
 
